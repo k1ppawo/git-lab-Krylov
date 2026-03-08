@@ -1,0 +1,37 @@
+commit 40b5349991920b217901bd3397a8359ddfb3eaf1
+Author: КрыловМ <k1ppawo@gmail.com>
+Date:   Sun Mar 8 23:18:42 2026 +0500
+
+    Добавлен test.txt в ветке TEST
+
+commit 993375adc19f43a50e046a9eb8d7bc84063296e1
+Author: КрыловМ <k1ppawo@gmail.com>
+Date:   Sun Mar 8 23:18:13 2026 +0500
+
+    Добавлен .gitignore для временных файлов
+
+commit 0a17fd561aa75176b107649d12a6ab4e49f6b2ba
+Author: КрыловМ <k1ppawo@gmail.com>
+Date:   Sun Mar 8 23:17:29 2026 +0500
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit a4b67bae4b2b585db07b220356d09c02aa1bd1fc.
+
+commit a4b67bae4b2b585db07b220356d09c02aa1bd1fc
+Author: КрыловМ <k1ppawo@gmail.com>
+Date:   Sun Mar 8 23:16:28 2026 +0500
+
+    Добавлена платформа видеоконференций
+
+commit 7a0dca1ad616bd6af29d576bb53088975ed18b65
+Author: КрыловМ <k1ppawo@gmail.com>
+Date:   Sun Mar 8 23:15:45 2026 +0500
+
+    Добавлена оценка текущего статуса
+
+commit d07009a9b4d08df10515277ecc50fe5e21353486
+Author: КрыловМ <k1ppawo@gmail.com>
+Date:   Sun Mar 8 23:15:23 2026 +0500
+
+    Добавлен базовый readme с ФИО и группой
